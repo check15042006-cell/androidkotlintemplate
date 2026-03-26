@@ -1,4 +1,4 @@
-package com.example.floatingmediacontrols
+package package com.lambdacoresw.app1
 
 import android.app.*
 import android.content.ComponentName
