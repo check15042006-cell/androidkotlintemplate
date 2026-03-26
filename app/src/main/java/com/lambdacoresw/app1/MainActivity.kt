@@ -1,4 +1,4 @@
-package com.example.floatingmediacontrols
+package com.lambdacoresw.app1
 
 import android.content.Intent
 import android.net.Uri
