@@ -1,4 +1,4 @@
-package com.example.floatingmediacontrols
+package com.lambdacoresw.app1
 
 import android.service.notification.NotificationListenerService
 import android.util.Log
