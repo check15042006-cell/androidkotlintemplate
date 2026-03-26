@@ -1,4 +1,4 @@
-package com.example.app
+package package com.lambdacoresw.app1
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
